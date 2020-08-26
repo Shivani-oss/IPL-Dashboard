@@ -21,7 +21,7 @@ function Menu() {
         <nav className="mt-2">
         <ul className="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
             <li className="nav-item">
-            <a className="nav-link">
+            <a href="/#" className="nav-link">
                 <i className="nav-icon fas fa-users" />
                 <p>
                 <Link to="/" >
@@ -31,7 +31,7 @@ function Menu() {
             </a>
             </li>
             <li className="nav-item">
-            <a className="nav-link">
+            <a href="/#" className="nav-link">
                 <i className="nav-icon fas fa-chart-pie" />
                 <p>
                 <Link to="/seasons" >
@@ -42,13 +42,13 @@ function Menu() {
             </li>
             <li className="nav-header">PLAYER</li>
             <li className="nav-item">
-            <a className="nav-link">
+            <a href="/#" className="nav-link">
                 <i className="nav-icon far fa-circle"  style={{color:"#EE5A24"}} />
                 <p className="text"><Link to="/orange" >Orange Cap</Link></p>
             </a>
             </li>
             <li className="nav-item">
-            <a className="nav-link">
+            <a href="/#" className="nav-link">
                 <i className="nav-icon far fa-circle" style={{color:"#4834d4"}}/>
                 <p className="text"><Link to="/purple" >Purple Cap</Link></p>
             </a>
