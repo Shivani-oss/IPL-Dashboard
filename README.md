@@ -13,15 +13,15 @@
   - to add chart.js element in dashboard
   
 ## Bonus point
-1. create the web-app in vue.js. - No
-2. optimize loading time - YES
+1. Create the web-app in vue.js. - No
+2. Optimize loading time - YES
   - by using npm run build command in which It correctly bundles React in production mode and optimizes the build for the best performance.
     The build is minified and the filenames include the hashes.   
-3. make it mobile responsive - YES
+3. Make it mobile responsive - YES
   - by using AdminLTE3 plugin and Material UI able to make Dashboard mobile responsivie
-4. make it a progressive web-app - YES
+4. Make it a progressive web-app - YES
   - through nelify and in React changes of srvices able to make it
-5. make it offline usable - Yes
+5. Make it offline usable - Yes
 
 ## Extra Information
 
