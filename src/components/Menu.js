@@ -8,7 +8,7 @@ function Menu() {
         <>
     <aside className="main-sidebar sidebar-dark-primary elevation-4 position-fixed">
     {/* Brand Logo */}
-    <a className="brand-link">
+    <a href="/#" className="brand-link">
         <img src={IPL_Logo} alt="IPL Logo" className="brand-image img-circle elevation-3" style={{opacity: '.8', marginLeft: 10}} />
         <span className="brand-text font-weight-light"  style={{color:"#fff",  margin: 20}}>IPL</span>
     </a>
