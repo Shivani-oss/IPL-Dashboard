@@ -1,4 +1,29 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## List of all major Librarires and Framework
+1. React js 
+  - the project is bootstrapped with create react app
+2. React-Hooks
+  - to render the state and provide some functionaity
+3. React-Material-UI
+  - for adding styling and build responsive layout
+4. AdmintLTE3 Dashboard Plugin eg - chart.js, theme, JVQ map etc.
+  - to add theme and all of its plugin which is used to make dahsboard look more effective
+5. HTML & CSS
+  - for basic styling purpose
+6. Jquery
+  - to add chart.js element in dashboard
+  
+## Bonus point
+1. create the web-app in vue.js. - No
+2. optimize loading time - YES
+  - by using npm run build command in which It correctly bundles React in production mode and optimizes the build for the best performance.
+    The build is minified and the filenames include the hashes.   
+3. make it mobile responsive - YES
+  - by using AdminLTE3 plugin and Material UI able to make Dashboard mobile responsivie
+4. make it a progressive web-app - YES
+  - through nelify and in React changes of srvices able to make it
+5. make it offline usable - Yes
+
+## Extra Information
 
 ## Available Scripts
 
