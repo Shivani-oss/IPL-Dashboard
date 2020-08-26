@@ -23,7 +23,7 @@ function Header({title}) {
         {/* Left navbar links */}
         <ul className="navbar-nav">
             <li className="nav-item">
-            <a className="nav-link" data-widget="pushmenu"><i className="fas fa-bars" /></a>
+            <a href="/#" className="nav-link" data-widget="pushmenu"><i className="fas fa-bars" /></a>
             </li>
         </ul>
     <h5 className={classes.root}>{title}</h5>
